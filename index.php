@@ -89,9 +89,10 @@
 	</section>
 	
 	
-	<section id="get_flow">
+	<section id="git_flow" class="clearfix">
 		<div class="container">
-			
+			<h2>git flow</h2>
+
 		</div><!--container-->
 	</section><!--get_flow-->
 	
