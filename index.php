@@ -75,7 +75,16 @@
 				<img src="img/git_commit.PNG" alt="">
 			</div><!--command_img-->
 			
-			<hr class="command_divide">			
+			<hr class="command_divide">		
+			
+			<h3>to Transmit local branch commits to the remote repository branchuse the command: <br><span class="commands">git push -u origin master</span></h3>
+			
+			<div class="command_img">
+				<img src="img/git_push_origin.PNG" alt="">
+			</div><!--command_img-->
+			
+			<hr class="command_divide">		
+			
 		</div><!--container-->
 	</section>
 	
