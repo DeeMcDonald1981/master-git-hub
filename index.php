@@ -88,6 +88,13 @@
 		</div><!--container-->
 	</section>
 	
+	
+	<section id="get_flow">
+		<div class="container">
+			
+		</div><!--container-->
+	</section><!--get_flow-->
+	
 	<script src="../fontawesome-free-5.7.2-web/fontawesome-free-5.7.2-web/js/all.min.js"></script>
 </body>
 </html>
