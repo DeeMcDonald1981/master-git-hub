@@ -33,6 +33,12 @@ body, html {
   float: left;
   padding: 0 16px; }
 
+#header nav .sticky_nav {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  color: #000; }
+
 #hero {
   height: 600px;
   background: #03A9F4;

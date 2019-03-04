@@ -11,7 +11,7 @@
 <body>
 	
 	<header id="header">
-			<nav class="clearfix">
+			<nav id="navigation" class="clearfix">
 				<div class="container">
 					<a href="#home">home</a>
 					<a href="#basic_git">basic commands</a>
