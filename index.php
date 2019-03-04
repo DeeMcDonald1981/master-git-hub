@@ -51,7 +51,7 @@
 			<hr class="command_divide">
 			
 			
-			<h3>to add the local files to github.com use the command: <br><span class="commands">git add [file name] or git add . [all files]</span></h3>
+			<h3>to add a file as it looks now to your next commit (stage) use the command: <br><span class="commands">git add [file name] or git add . [all files]</span></h3>
 			
 			<div class="command_img">
 				<img src="img/git_add.PNG" alt="">
