@@ -92,10 +92,22 @@
 	<section id="git_flow" class="clearfix">
 		<div class="container">
 			<h2>git flow</h2>
+			
+			<div class="git_example">
+				<h3>to Transmit local branch commits to the remote repository branchuse the command: <br><span class="commands">git push -u origin master</span></h3>
+
+				<div class="command_img">
+					<img src="img/git_push_origin.PNG" alt="">
+				</div><!--command_img-->
+
+				<hr class="command_divide">		
+
+			</div><!--git_example-->
 
 		</div><!--container-->
 	</section><!--get_flow-->
 	
+	<script src="js/script.js"></script>
 	<script src="../fontawesome-free-5.7.2-web/fontawesome-free-5.7.2-web/js/all.min.js"></script>
 </body>
 </html>
